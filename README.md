@@ -10,5 +10,6 @@ Quienes logren resolver los desafíos va a tener un premio que puede ser un caf�
 
 ![](https://i.imgur.com/p2FKUPJ.png)
 
-- Gabor Delli Carri, Christian Nicolas
-- Sanchez, Tomas
+- Joaquín Grimoldi
+- Tomás Julian Antonio
+- Valentina Luján Rau Robayo
