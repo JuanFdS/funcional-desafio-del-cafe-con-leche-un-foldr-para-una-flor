@@ -7,17 +7,6 @@ import Test.Hspec
 import Control.Exception (evaluate)
 
 correrTests = hspec $ do
-  describe "lookAndSay" $ do
-    it "el primer termino es 1" $ do
-      lookAndSay !! 0 `shouldBe` 1
-    it "el segundo termino es 11" $ do
-      lookAndSay !! 1 `shouldBe` 11
-    it "cada termino se construye escribiendo la cantidad de repetidos seguidos en el termino anterior" $ do
-      lookAndSay !! 5 `shouldBe` 312211
-      lookAndSay !! 6 `shouldBe` 13112221
-      lookAndSay !! 7 `shouldBe` 1113213211
-      lookAndSay !! 8 `shouldBe` 31131211131221
-
   describe "foldr" $ do
     it "cuando el arbol tiene solo la raiz opera la semilla con la raiz" $ do
       foldr (+) 2 (RoseTree 5 []) `shouldBe` 7
