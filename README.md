@@ -14,4 +14,4 @@ Quienes logren resolver los desafíos va a tener un premio que puede ser un caf�
 - Tomás Julian Antonio
 - Valentina Luján Rau Robayo
 - Jiun Ming Hsu
-
+- Manuel José Rafel
